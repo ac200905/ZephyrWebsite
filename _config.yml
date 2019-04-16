@@ -10,7 +10,7 @@ title: Zephyr
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Zephyr Website Example.
-baseurl: "/ZephyrWebsite" # the subpath of your site, e.g. /blog
+baseurl: "/Zephyr" # the subpath of your site, e.g. /blog
 url: "//ac200905.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
