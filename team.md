@@ -4,8 +4,6 @@ title: Team
 permalink: /team/
 ---
 
-Team make up here.
-
 ### Programming
 
 #### Adrian Carter
@@ -30,4 +28,23 @@ These are the main mechanics I am responsible for:
 #### Arturs Zingis
 
 
+### Art
+
+#### Oviya Vendan
+
+#### Thomas Pepper
+
+#### Emma Clapp
+
+#### Dian Donchev
+
+
+
+### Design
+
+#### Jo Giddings
+
+#### Ryan Loosemore
+
+#### Daniel Tilbey
 
