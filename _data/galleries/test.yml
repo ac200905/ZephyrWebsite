@@ -18,7 +18,7 @@ pictures:
   - s1.png
   thumbnail: s1.png
   title: Screenshot 1
-  caption: The first screenshot
+  caption: Rainy Level
 - filename: s2
   original: s2.png
   sizes:
@@ -27,7 +27,7 @@ pictures:
   - s2.png
   thumbnail: s2.png
   title: Screenshot 2
-  caption: The second screenshot
+  caption: Sunset
 - filename: s3
   original: s3.png
   sizes:
@@ -36,7 +36,7 @@ pictures:
   - s3.png
   thumbnail: s3.png
   title: Screenshot 3
-  caption: The third screenshot
+  caption: Day
 - filename: s4
   original: s4.png
   sizes:
@@ -45,7 +45,7 @@ pictures:
   - s4.png
   thumbnail: s4.png
   title: Screenshot 4
-  caption: The fourth screenshot
+  caption: Night
 - filename: s5
   original: s5.png
   sizes:
@@ -54,7 +54,7 @@ pictures:
   - s5.png
   thumbnail: s5.png
   title: Screenshot 5
-  caption: The fifth screenshot
+  caption: Start Point
 - filename: s6
   original: s6.png
   sizes:
@@ -63,7 +63,7 @@ pictures:
   - s6.png
   thumbnail: s6.png
   title: Screenshot 6
-  caption: The sixth screenshot
+  caption: Main Menu
 - filename: s7
   original: s7.png
   sizes:
@@ -72,7 +72,7 @@ pictures:
   - s7.png
   thumbnail: s7.png
   title: Screenshot 7
-  caption: The seventh screenshot
+  caption: Daytime Level
 - filename: s8
   original: s8.png
   sizes:
@@ -81,7 +81,7 @@ pictures:
   - s8.png
   thumbnail: s8.png
   title: Screenshot 8
-  caption: The eigth screenshot
+  caption: Deadly Traps
 - filename: s9
   original: s9.png
   sizes:
@@ -90,7 +90,7 @@ pictures:
   - s9.png
   thumbnail: s9.png
   title: Screenshot 9
-  caption: The ninth screenshot
+  caption: Whirlwind
 - filename: s10
   original: s10.png
   sizes:
@@ -99,7 +99,7 @@ pictures:
   - s10.png
   thumbnail: s10.png
   title: Screenshot 10
-  caption: The tenth screenshot
+  caption: Crystal Cavern
 - filename: s11
   original: s11.png
   sizes:
@@ -108,7 +108,7 @@ pictures:
   - s11.png
   thumbnail: s11.png
   title: Screenshot 11
-  caption: The eleventh screenshot
+  caption: Thorny Ground
 - filename: s12
   original: s12.png
   sizes:
@@ -117,7 +117,7 @@ pictures:
   - s12.png
   thumbnail: s12.png
   title: Screenshot 12
-  caption: The twelth screenshot
+  caption: Bridgeway Run
 - filename: s13
   original: s13.png
   sizes:
@@ -126,7 +126,7 @@ pictures:
   - s13.png
   thumbnail: s13.png
   title: Screenshot 13
-  caption: The thirteenth screenshot
+  caption: Slowmo Teleport
 - filename: s14
   original: s14.png
   sizes:
@@ -135,7 +135,7 @@ pictures:
   - s14.png
   thumbnail: s14.png
   title: Screenshot 14
-  caption: The fourteenth screenshot
+  caption: Mid-Blink
 - filename: s15
   original: s15.png
   sizes:
@@ -144,7 +144,7 @@ pictures:
   - s15.png
   thumbnail: s15.png
   title: Screenshot 15
-  caption: The fifteenth screenshot
+  caption: Darts
 - filename: s16
   original: s16.png
   sizes:
@@ -153,7 +153,7 @@ pictures:
   - s16.png
   thumbnail: s16.png
   title: Screenshot 16
-  caption: The sixteenth screenshot
+  caption: Flamethrower Trap
 - filename: s17
   original: s17.png
   sizes:
@@ -162,7 +162,7 @@ pictures:
   - s17.png
   thumbnail: s17.png
   title: Screenshot 17
-  caption: The seventeenth screenshot
+  caption: Spinning Blade
 - filename: s18
   original: s18.png
   sizes:
@@ -171,7 +171,7 @@ pictures:
   - s18.png
   thumbnail: s18.png
   title: Screenshot 18
-  caption: The eighteenth screenshot
+  caption: Updraft
 - filename: s19
   original: s19.png
   sizes:
@@ -180,7 +180,7 @@ pictures:
   - s19.png
   thumbnail: s19.png
   title: Screenshot 19
-  caption: The nineteenth screenshot
+  caption: Artifact Placement
 - filename: s20
   original: s20.png
   sizes:
@@ -189,7 +189,7 @@ pictures:
   - s20.png
   thumbnail: s20.png
   title: Screenshot 20
-  caption: The twentieth screenshot
+  caption: The Guardian
 - filename: s21
   original: s21.png
   sizes:
@@ -198,5 +198,5 @@ pictures:
   - s21.png
   thumbnail: s21.png
   title: Screenshot 21
-  caption: The twenty-first screenshot
+  caption: Falling Islands
 
