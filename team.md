@@ -8,7 +8,7 @@ Team make up here.
 
 ### Programming
 
-##### Adrian Carter
+#### Adrian Carter
 
 I'm a second year BSc Computing for Games student and I created the initial first person teleportation prototype we chose to base our game off of, therefore I worked mainly on refining the player's teleportation abilities. The most challenging being the long range teleport. I created several other small mechanics such as various traps and hazards. I was also largely responsible for implementing the audio and hand animations towards the end of development. There are a few mechanics I made during development that didn't make it into the final game, including several iterations of a mana system for the teleportation abilities.
 
