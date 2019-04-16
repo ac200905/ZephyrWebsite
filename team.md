@@ -24,10 +24,10 @@ These are the main mechanics I am responsible for:
 - Implementation of Audio
 - Implementation of Hand Animations
 
-##### Sam Auber
+#### Sam Auber
 
 
-##### Arturs Zingis
+#### Arturs Zingis
 
 
 
