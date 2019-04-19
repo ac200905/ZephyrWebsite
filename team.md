@@ -12,7 +12,7 @@ I'm a second year BSc Computing for Games student and I created the initial firs
 
 I also worked on some non-programming aspects of the game, including creating particle effects for the Updraft and Tornado prefabs and designing and creating experimental levels.
 
-These are the main mechanics I am responsible for:
+These are the main elements I am responsible for:
 - Teleportation Ability
 - Blink Ability
 - Moving Platforms
@@ -23,6 +23,22 @@ These are the main mechanics I am responsible for:
 - Implementation of Hand Animations
 
 #### Sam Auber
+
+I'm a second year BSc Computing for Games student and I primarily worked on the core gameloop of Zephyr, the player controller, the end boss and the UI and UX of the game. The most challenging thing I worked on was probably the Game Manager as it sets up the rules of the game and allows for the gameloop to work for each level.
+
+I also worked on some shader programing for the grass and butterfilies in the game and I also made a cool corruption shader for the End Boss that unfortunatley didn't make it into the final game.
+
+And for the majority of the project I had the role of Scrum Master to help oragnise the tasks and workload for each team member and give a clear goal and focus for each sprint.
+
+These are the main elements of the game I am responsible for:
+- Rigidbody Charachter Controller
+- Game Manager
+- UI menus
+- Level Select
+- Scoreboard
+- Grass Shader
+- Butterflies shader
+- End Boss
 
 
 #### Arturs Zingis
