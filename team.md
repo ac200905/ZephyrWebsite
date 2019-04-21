@@ -43,6 +43,22 @@ These are the main elements of the game I am responsible for:
 
 #### Arturs Zingis
 
+I am also a second year BsC Computing For Games programming student and I primarily worked on implementing the traps for the game, such as:
+- Falling Plaftorm
+- Spike Trap
+- Dart Trap
+
+And other game elements such as:
+- UI (Credits/Settings screens)
+- Floater script.
+
+Whilst also assisting with the development of the:
+- Moving Platforms
+
+During the course of this project, I was responsible for a lot of the early testing on the trap features but in the end, the tasks that I was responsible for ended up being taken over due to my own attendance issues. This largely impacted my work on the project due to the way it was handled but I could have done more to impact the outcome earlier on in the development cycle. 
+
+This project was a learning experinece for me and although we had our own attendance issues with other members of the team, it was still very enjoyable to get to know everybody and work on something together.
+
 
 ### Art
 
