@@ -64,6 +64,12 @@ This project was a learning experinece for me and although we had our own attend
 
 #### Oviya Vendan
 
+I am a BA Game Artist and I was assigned as the concept artist for the game. During the earlier stages of the game I made visual development art that gave the team a streamlined idea of what the final game would look and feel like once complete.  I was also responsible for designing the concept art for the game's assets such as the walls, archways, the axe trap and the final boss. As we went for an Aztec themed game I made sure the structures resonated with the time period and followed a style that felt cohesive and appropriate to the gameplay. 
+
+I also made concept art for the main character of the game which was used as reference for the first person arm assets (which I created in 3d later on). 
+
+I was also responsible for concepting, modelling and texturing the final boss character for the game.
+
 #### Thomas Pepper
 
 #### Emma Clapp
