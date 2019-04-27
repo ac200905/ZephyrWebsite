@@ -31,7 +31,7 @@ I also worked on some shader programing for the grass and butterfilies in the ga
 And for the majority of the project I had the role of Scrum Master to help oragnise the tasks and workload for each team member and give a clear goal and focus for each sprint.
 
 These are the main elements of the game I am responsible for:
-- Rigidbody Charachter Controller
+- Rigidbody Character Controller
 - Game Manager
 - UI menus
 - Level Select
@@ -43,7 +43,7 @@ These are the main elements of the game I am responsible for:
 
 #### Arturs Zingis
 
-I am also a second year BsC Computing For Games programming student and I primarily worked on implementing the traps for the game, such as:
+I am also a second year BSc Computing For Games programming student and I primarily worked on implementing the traps for the game, such as:
 - Falling Plaftorm
 - Spike Trap
 - Dart Trap
