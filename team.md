@@ -46,7 +46,8 @@ These are the main elements of the game I am responsible for:
 I am also a second year BSc Computing For Games programming student and I primarily worked on implementing the traps for the game, such as:
 - Falling Plaftorm
 - Spike Trap
-- Dart Trap
+- Swinging blade
+- Sawblade
 
 And other game elements such as:
 - UI (Credits/Settings screens)
