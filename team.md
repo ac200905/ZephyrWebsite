@@ -82,8 +82,18 @@ I was also responsible for concepting, modelling and texturing the final boss ch
 ### Design
 
 #### Jo Giddings
+I am a BA Game Development student specialising in design. My main role on the team was as technical designer, working on developing and balancing the mechanics of the game. This included balancing the player characters movement and the teleporting abilities and developing traps and hazards for the game. I was also involved with some level design prototyping and was responsible for making the tutorial levels of the game. Additionally I was in charge of running and analysing playtests for our game.
 
 #### Ryan Loosemore
+I’m a second year BA Game Development student on the Design course. Early on in the development of the game I helped work on the prototypes we created and tested to get a feel for the game we wanted to make and worked on the creation of the design document after we had settled on an idea. 
+
+Throughout the rest of the development time I was working on level design, creating level block outs to test how different mechanics would be implemented. As the game progressed, I spent more time working on levels with the finished prefabs that we used in the final game. Whilst most of these levels in full did not come to see the final set of levels it provided a good level of insight into what made levels fun, and some aspects of the levels I created were used within the final build of the game.
+
+In a list, here are the main elements of the game I worked on:
+-	Early design of a prototype for a game idea
+-	Design document covering all early aspect of what we wanted within the game
+-	Basic level block outs, used for internal and external testing
+-	Polished level designs, using final prefabs and materials, some of which making it into the final levels of the finished product.
 
 #### Daniel Tilbey
 
