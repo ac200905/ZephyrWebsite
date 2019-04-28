@@ -74,6 +74,8 @@ I was also responsible for concepting, modelling and texturing the final boss ch
 #### Thomas Pepper
 
 #### Emma Clapp
+I’m a second year BA Game Art student and I began by working on concept art for the project before moving on to 3D modelling as the game progressed. In the early stages I created visual concepts to explore the style and mood of the game to guide the direction the prototypes could be taken in.  I then worked on concepts for architectural structures and the floating islands that the game would take place on, for a cohesive idea of what the final game could look like. I spent some time working on the main character concepts but it was decided that the only visible part of the main character would be the arms, and so a lot of this was not put in game. I also concepted some foliage that could be used to make the environment more immersive.
+I was responsible for concepting, modelling and texturing the artefacts found at the end of each level. I then 3d modelled foliage and a large column asset.
 
 #### Dian Donchev
 
