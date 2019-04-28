@@ -45,21 +45,21 @@ These are the main elements of the game I am responsible for:
 
 I am also a second year BSc Computing For Games programming student and I primarily worked on implementing the traps for the game, such as:
 - Falling Plaftorm
-- Spike Trap
 - Swinging blade
 - Sawblade
 
 And other game elements such as:
 - UI (Credits/Settings screens)
-- Floater script.
+- Floater script
+- Player platform parent script
 
 Whilst also assisting with the development of the:
 - Moving Platforms
 
-During the course of this project, I was responsible for a lot of the early testing on the trap features but in the end, the tasks that I was responsible for ended up being taken over due to my own attendance issues. This largely impacted my work on the project due to the way it was handled but I could have done more to impact the outcome earlier on in the development cycle. 
-
-This project was a learning experinece for me and although we had our own attendance issues with other members of the team, it was still very enjoyable to get to know everybody and work on something together.
-
+During the course of this project, I was responsible for the traps that the player would encounter throughout the game to improve the game mechanically by adding physics based hazards to place around the stages. I enjoyed testing the traps and
+making sure they worked as intended by the designers of the team. On the tail end of the project, I helped with some of the
+UI elements of the game as well as a cosmetic Floater script for the Main Menu. This project was a learning experience for me
+but I still enjoyed it nonetheless.
 
 ### Art
 
