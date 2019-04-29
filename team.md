@@ -72,13 +72,21 @@ I also made concept art for the main character of the game which was used as ref
 I was also responsible for concepting, modelling and texturing the final boss character for the game.
 
 #### Thomas Pepper
+A 2nd year Game Development: Artist student specialising in environmental art. I had various roles as an artist throughout the development of this game. This includes; creating the visual style, asset creation, particle effects, as well as level design. The main assets that I created for the game are:
+- Island platforms
+- Ruins (Walls, pillar, Archway, rope bridge, etc.)
+- Foliage (Trees and bushes)
+- Traps and hazards
+
+I was also given the duty to keep the visuals coherent as this project was out first with this large an art team. Meaning after I developed the art style of the game, I had to then teach my fellow artists the skills and methods used to create content within the style.
+During the last half of development, I took over the progress of working on level design. I designed the levels so that they flow smoothly as well as consistent. I got them to a standard where they were dressed and able to pass back to the team’s designers to then tweak and polish them as they saw fit.
 
 #### Emma Clapp
 I’m a second year BA Game Art student and I began by working on concept art for the project before moving on to 3D modelling as the game progressed. In the early stages I created visual concepts to explore the style and mood of the game to guide the direction the prototypes could be taken in.  I then worked on concepts for architectural structures and the floating islands that the game would take place on, for a cohesive idea of what the final game could look like. I spent some time working on the main character concepts but it was decided that the only visible part of the main character would be the arms, and so a lot of this was not put in game. I also concepted some foliage that could be used to make the environment more immersive.
 I was responsible for concepting, modelling and texturing the artefacts found at the end of each level. I then 3d modelled foliage and a large column asset.
 
 #### Dian Donchev
-
+I am Dian Donchev and I am a 3D artist and Graphic Designer. My interests are not only in games but other businesses as well. I believe game-making techniques and CG artists could be beneficial for a large number of different projects. Creating interactive visualisations for advertisements, architects, movies and more. I Believe people should excel in more than one area therefore almost equally important with my artist's abilities I develop entrepreneurship skills via different business competitions. Moreover, my hobbies include new technology, gaming, fashion and more. Developing such a game was a challenging task but I am glad that I have such amazing people in this team so that the process was smooth and entertaining.
 
 
 ### Design
@@ -97,5 +105,5 @@ In a list, here are the main elements of the game I worked on:
 -	Basic level block outs, used for internal and external testing
 -	Polished level designs, using final prefabs and materials, some of which making it into the final levels of the finished product.
 
-#### Daniel Tilbey
+
 
