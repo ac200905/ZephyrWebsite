@@ -4,6 +4,9 @@ title: Team
 permalink: /team/
 ---
 
+## End Cloud Digital
+Welcome, we are End Cloud Digital, a new games studio working out of Falmouth University in Cornwall, UK. We are a team of 9 university students of various disciplines and we created Zephyr. Below is a brief summary of the challenges we each overcame to make the game as great as it is!
+
 ### Programming
 
 #### Adrian Carter
