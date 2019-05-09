@@ -9,7 +9,7 @@
 title: Zephyr
 email: adrian-carter@hotmail.co.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Contact Email.
+  Contact Email:
 baseurl: "/Zephyr" # the subpath of your site, e.g. /blog
 url: "//ac200905.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
